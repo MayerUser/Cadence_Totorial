@@ -31,4 +31,4 @@ MB - Middle Button;
 * s : Stretch;
 * shift + c : cut - off;
 * **shift + o : rotation;**
-* exclamation point + net_name = global net e.g. **gnd!**
+* net_name + exclamation point = global net e.g. **gnd!**
