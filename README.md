@@ -1,4 +1,4 @@
-# Cadence_Totorial
+# Cadence_Tutorial
 ## Cadence Virtuoso Layout "SHORT KEY"
 
 ## Abbr
