@@ -27,7 +27,7 @@ MB - Middle Button;
 * **u : Undo**
 * Shift + u : Cancel Undo;
 * **k : Add a ruler;**
-* Shift + K :k Delete all rulers;
+* Shift + k : Delete all rulers;
 * s : Stretch;
 * shift + c : cut - off;
 * **shift + o : rotation;**
